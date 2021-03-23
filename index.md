@@ -7,7 +7,6 @@ This is still temporary as we are working to have the real website up and runnin
 This is a temporary page that will be substituted by the official page in a short while.
 
 ```markdown
-Syntax highlighted code block
 Important books to read in no particular order:
 
 # The Hitchhiker's Guide to the Galaxy
@@ -17,7 +16,7 @@ Important books to read in no particular order:
 # Mostly Harmless
 # And Another Thing...
 
-
+```
 
 ### More stuff will appear here
 
