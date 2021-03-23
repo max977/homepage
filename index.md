@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to my website
 
-You can use the [editor on GitHub](https://github.com/max977/homepage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is still temporary as we are working to have the real website up and running soon.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Temporary page
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is a temporary page that will be substituted by the official page in a short while.
 
 ```markdown
-Syntax highlighted code block
+Important books to read in no particular order:
 
-# Header 1
-## Header 2
-### Header 3
+# The Hitchhiker's Guide to the Galaxy
+# The Restaurant at the End of the Universe
+# Life, the Universe and Everything
+# So Long, and Thanks for All the Fish
+# Mostly Harmless
+# And Another Thing...
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+### More stuff will appear here
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/max977/homepage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with this page? Check out our [documentation](https://github.com/max977/homepage/edit/gh-pages/index.md) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
