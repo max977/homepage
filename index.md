@@ -20,7 +20,7 @@ Important books to read in no particular order:
 
 ### More stuff will appear here
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/max977/homepage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The best Hitchhiker's Guide To the Galaxy quotes 1. There is a theory which states that if ever anyone discovers exactly what the Universe is for and why it is here, it will instantly disappear and be replaced by something even more bizarre and inexplicable. There is another theory which states that this has already happened.
 
 ### Support or Contact
 
